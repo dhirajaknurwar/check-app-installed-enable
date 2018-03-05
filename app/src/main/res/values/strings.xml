@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Check Application Installed</string>
+    <string name="google_map_app">Google Map App</string>
+    <string name="whatsApp_app">WhatsApp</string>
+    <string name="install_whatsApp_error_msg">Install or enable WhatsApp Application to send Message.</string>
+    <string name="install_googleMap_error_msg">Please install or enable Google Maps app.</string>
+</resources>
